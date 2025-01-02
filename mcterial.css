@@ -13,7 +13,7 @@ ul li{
 
 ul li:hover{
     transform: scale(1.05);
-    animation: shake 0.5s ease-in-out;
+    animation: shake 0.5s ease-in-out infinite;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
