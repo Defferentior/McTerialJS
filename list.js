@@ -12,7 +12,7 @@ PeriodicElements.push({position: 9, name: 'Fluorine', weight: 18.9984, symbol: '
 PeriodicElements.push({position: 10, name: 'Neon', weight: 20.1797, symbol: 'Ne'});
 PeriodicElements.push({position: 11, name: 'Sodium', weight: 22.9897, symbol: 'Na'});
 PeriodicElements.push({position: 12, name: 'Magnesium', weight: 24.305, symbol: 'Mg'});
-PeriodicElements.push({position: 13, name: 'Aluminum', weight: 26.9815, symbol: 'Al'});
+PeriodicElements.push({position: 13, name: 'Aluminium', weight: 26.9815, symbol: 'Al'});
 PeriodicElements.push({position: 14, name: 'Silicon', weight: 28.0855, symbol: 'Si'});
 PeriodicElements.push({position: 15, name: 'Phosphorus', weight: 30.9738, symbol: 'P'});
 PeriodicElements.push({position: 16, name: 'Sulfur', weight: 32.065, symbol: 'S'});
@@ -24,3 +24,9 @@ PeriodicElements.push({position: 21, name: 'Scandium', weight: 44.9559, symbol: 
 PeriodicElements.push({position: 22, name: 'Titanium', weight: 47.867, symbol: 'Ti'});
 PeriodicElements.push({position: 23, name: 'Vanadium', weight: 50.9415, symbol: 'V'});
 PeriodicElements.push({position: 24, name: 'Chromium', weight: 51.9961, symbol: 'Cr'});
+PeriodicElements.push({position: 25, name: 'Manganese', weight: 54.938, symbol: 'Mn'});
+PeriodicElements.push({position: 26, name: 'Iron', weight: 55.845, symbol: 'Fe'});
+PeriodicElements.push({position: 27, name: 'Cobalt', weight: 58.9332, symbol: 'Co'});
+PeriodicElements.push({position: 28, name: 'Nickel', weight: 58.6934, symbol: 'Ni'});
+PeriodicElements.push({position: 29, name: 'Copper', weight: 63.546, symbol: 'Cu'});
+PeriodicElements.push({position: 30, name: 'Zinc', weight: 65.39, symbol: 'Zn'});
